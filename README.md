@@ -117,5 +117,4 @@ If you find this project useful:
 
 ---
 
-## 📁 Project Structure
 
