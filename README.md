@@ -100,7 +100,7 @@ Aspiring Data Analyst | Power BI | Machine Learning
 
 🔗 GitHub: https://github.com/RizwanRazvi22
 
----
+--- 
 
 ## ⭐ Support
 
