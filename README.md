@@ -17,6 +17,12 @@ The dashboard helps stakeholders:
 
 ---
 
+## 📊 Dashboard Preview
+
+Below is a preview of the Power BI Customer Churn Prediction Dashboard:
+
+![Customer Churn Dashboard](screenshots/dashboard_preview.png)
+
 ## 🎯 Project Objectives
 
 - Analyze customer churn patterns
